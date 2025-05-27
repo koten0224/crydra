@@ -2,7 +2,7 @@ name: crydra
 version: 0.0.1
 description: "Crydra - A minimal, early-stage Crystal web framework inspired by Rails"
 authors:
-  - Frank Liao <your-email@example.com>
+  - Frank Liao <koten0224@gmail.com>
 license: MIT
 targets:
   crydra:
