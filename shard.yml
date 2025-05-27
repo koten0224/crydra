@@ -1,0 +1,10 @@
+name: crydra
+version: 0.0.1
+description: "Crydra - A minimal, early-stage Crystal web framework inspired by Rails"
+authors:
+  - Frank Liao <your-email@example.com>
+license: MIT
+targets:
+  crydra:
+    main: src/crydra.cr
+crystal: ">= 1.10.0"
